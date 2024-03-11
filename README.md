@@ -14,7 +14,7 @@ PUT /api/reminders/{id}/: Update a specific reminder.
 DELETE /api/reminders/{id}/: Delete a specific reminder.
 
 
-[] To create a reminder, send a POST request to /api/reminders/ with the following JSON payload:
+[ ] To create a reminder, send a POST request to /api/reminders/ with the following JSON payload:
 ````
 {
   "date": "YYYY-MM-DD",
